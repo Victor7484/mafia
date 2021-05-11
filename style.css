@@ -1,0 +1,42 @@
+.main{
+    display: flex;
+    flex-direction: column;
+    height: 100vh;
+    background-color: steelblue;
+}
+.header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: black;
+    height: 20vh;
+
+}
+.body{
+    display: flex;
+    height: 60hv;
+    width: 100vw;
+}
+.footer{
+    display: flex;
+    height: 20hv;
+    justify-content: center;
+    background-color: bisque;
+
+}
+.h2{
+    display: flex;
+    width: 60vw;
+    background-color: aquamarine;
+    margin: 2px;
+}
+h3{
+    display: flex;
+    width: 40vw;
+    border: 10%;
+}
+.login{
+    display: flex;
+    background-color: black;
+    color: blueviolet;
+    position: absolute;
